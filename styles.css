@@ -1,3 +1,23 @@
 p{
-    margin: 250px 50px 75px 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+img{
+    border:1px solid #021a40;
+     }
+}
+h2{
+    padding-left: 310px;
+    padding-right: 310px;
+}
+footer{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+html{
+    background-color:#C0C0C0;
+}
+.content{
+    background-color: #F9F9F9; 
 }
